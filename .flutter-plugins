@@ -1,0 +1,14 @@
+# This is a generated file; do not edit or check into version control.
+firebase_analytics=/home/hiveforensics/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-5.0.11/
+firebase_auth=/home/hiveforensics/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.15.1/
+firebase_core=/home/hiveforensics/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.2+1/
+firebase_database=/home/hiveforensics/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-3.1.0/
+firebase_messaging=/home/hiveforensics/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-6.0.13/
+firebase_remote_config=/home/hiveforensics/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_remote_config-0.3.0+3/
+firebase_storage=/home/hiveforensics/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.10/
+google_sign_in=/home/hiveforensics/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.0.14/
+image_picker=/home/hiveforensics/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.2+2/
+path_provider=/home/hiveforensics/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.0/
+share=/home/hiveforensics/flutter/.pub-cache/hosted/pub.dartlang.org/share-0.6.3+4/
+shared_preferences=/home/hiveforensics/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.4+8/
+url_launcher=/home/hiveforensics/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.2.7/

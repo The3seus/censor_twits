@@ -1,6 +1,7 @@
 # Contributing Guide
 
-Fwitter app is Open Source! I love it when people contribute!
+Censortwits app is Open Source! I love it when people contribute!
+
 
 ## Getting Started
 
