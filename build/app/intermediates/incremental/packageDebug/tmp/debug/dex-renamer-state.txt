@@ -1,7 +1,0 @@
-#Sat Apr 25 20:57:11 EDT 2020
-base.0=/home/hiveforensics/flutter-projects/censor_twits/build/app/intermediates/transforms/dexMerger/debug/0
-path.1=classes2.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
-base.1=/home/hiveforensics/flutter-projects/censor_twits/build/app/intermediates/transforms/dexMerger/debug/0
